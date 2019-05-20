@@ -1,4 +1,4 @@
-# InfotvLight
+# Laravel & React
 
 ## Install
 ### Backend
